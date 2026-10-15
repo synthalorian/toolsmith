@@ -1,3 +1,5 @@
+![toolsmith](.github/preview.png)
+
 # toolsmith
 
 Contract files for agent tools, validated before runtime.
